@@ -5,5 +5,5 @@ element.innerHTML="New Value";
 
 //move the image
 document.getElementById('madi').onclick=function(){
-    img.style.marginLeft = "100px";
+    madi.style.marginLeft = "100px";
 }
